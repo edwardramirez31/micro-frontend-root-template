@@ -54,5 +54,6 @@
     "single-spa": "^5.9.3",
     "@types/webpack-env": "^1.16.2"
   },
-  "types": "dist/my-app-root-config.d.ts"
+  "types": "dist/my-app-root-config.d.ts",
+  "version": "1.0.0"
 }
